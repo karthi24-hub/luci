@@ -208,7 +208,7 @@ $ quantum_status --current-projects
 
 **"Coffee: The quantum fuel that collapses the wave function of my productivity into measurable results"** ⚛️
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/karthikeyan)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/karthiluci)
 
 *Every cup of coffee supports the development of consciousness in silicon*
 
